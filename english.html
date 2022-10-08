@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/personal-info-main.css">
+    <link rel="stylesheet" href="css/personal-info-animate.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link href="css/aos.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SunLi</title>
+    <style>
+        .nav {
+            width: 100%;
+            height: 44px;
+            border-top: 2px solid #6A5ACD;
+            border-bottom: 1px solid #edeef0;
+            background-color: #E6E6FA;
+            line-height: 40px;
+            text-align:center;
+        }
+
+        .nav a {
+            /*   此时的a为行内元素 修改高无效 需要将a转换为行内块元素 它既可以有宽度 又可以有高度*/
+            display: inline-block;
+            height: 42px;
+            padding: 0 13px;
+            /* 上下为0  左右为15px */
+            font-size: 16px;
+            color: #191970;
+            text-decoration: none;
+            text-align:center;
+            font-weight:bold
+        }
+
+        .nav a:hover {
+            background-color: #eee;
+            color: #4682B4;
+        }
+        .container {
+	        width: 1340px;
+	        min-height: 1000px;
+	        max-height: 999999px; /* prevents font boosting */
+	        margin: 56px auto 20px; /* top right bottom left */
+	        box-shadow: 0 0 7px #122b6d; /*527bbd;*/
+	        text-align: left;
+	        background: #fff;
+	        padding: 14px 14px 14px 14px; /* top right bottom left */
+	        z-index: 1;
+        }
+
+    </style>
+
+</head>
+
+
+<body class="container" style="background-color:#F8F8FF;margin-right:100px;margin-left:100px;font-family:Times New Roman">
+
+    <div class="nav">
+        <a href="#About Me">About Me</a>
+        <a href="#Affiliation">Affiliation</a>
+        <a href="#Research Interests">Research Interests</a>
+        <a href="#Education">Education</a>
+        <a href="#Selected Publications">Selected Publications</a>
+        <a href="#Academic Services">Academic Services</a>
+        <a href="#Funding">Funding</a>
+        <a href="#Student Mentoring">Student Mentoring</a>
+        <a href="#Honors and Awards">Honors and Awards</a>
+    </div>
+<!--    <br>-->
+    <div id='sunli' class='container-fluid row' style="text-align:center;margin-right:150px;margin-left:150px;">
+        <div class='col-lg-3'><img src='images/sunli.jpg' width="230" height="300" style="float:left;border-radius: 80px;"/></div>
+        <div class='col-lg-8'>
+        <div id='shichuan-info' >
+            <br>
+            <h1 class='egName1' style="text-align:left;font-size:36px">Li Sun</h1>
+<!--            <br>-->
+<!--            <h1 class='egName1' style="font-size:24px">Simon</h1>-->
+            <pre id='info' style="font-size:20px;text-align:left;font-family:Georgia;border-radius:8px;">
+Assistant Professor
+School of Control and Computer Engineering
+North China Electric Power University
+2 Beinong Rd, Changping, Beijing
+E-mail:ccesunli@ncepu.edu.cn
+<a href='doc/sunli-CV-short.pdf' download="sunli-CV-short">[download CV in pdf]</a>   <a href='index.html' style="font-family:KaiTi;font-size:22px">[切换至中文界面]</a>   <a href='https://dblp.org/pid/57/2405-8.html'>[DBLP]</a></pre>
+        </div>
+        </div>
+    </div>
+
+<!--    about me-->
+    <div  style="margin-right:150px;margin-left:150px;">
+        <h2 id='About Me' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left;">About Me</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+        <p style="font-size:20px">
+            I am currently an assistant professor at School of Control and Computer Engineer,
+            <a href='https://cce.ncepu.edu.cn/szdw/jsml/rgznywlwgcjys/95f9d9f44a854ae3a9edacf5aaecf853.htm' target='_blank'>North China Electric Power University (NCEPU), Beijing.</a> Before joining in NCEPU,
+            I received my Ph.D. Degree in Computer Science from Beijing University of Posts and
+            Telecommunications in 2021 supervised by <a href='https://www.bupt.edu.cn/info/1076/83854.htm' target='_blank'>Prof. Su, Sen </a>. I was a visiting scholar at
+            University of Illinois at Chicago advised by <a href='https://www.cs.uic.edu/PSYu/' target='_blank'>Prof. Philip. S. Yu (ACM/IEEE Fellow) </a> from
+            2019 to 2020. <br>
+            My research areas are machine learning and data mining with special attentions
+            to graphs and Riemannian representation learning. I have published over 20 refereed papers,
+            including top conferences and journals such as AAAI, IJCAI, ACM The Web Conf. (WWW), ACM CIKM,
+            IEEE ICDM, IEEE TKDE. I have been invited as program committee member in KDD, WSDM, AAAI, IJCAI,
+            ECAI and conference committee member in IEEE BigData, and served as reviewer in ACM TWEB, IJMLC.
+        </p>
+    </div>
+<!--    <br>-->
+
+<!--affiliation-->
+    <div style="margin-right:150px;margin-left:150px;">
+        <h2 id='Affiliation' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Affiliation</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+
+    <ul class='row' style="font-size:20px">
+        <li class='col-lg-3'>2021.07 - Now</li>
+        <div class='col-lg-9 list'><a href='https://cce.ncepu.edu.cn/szdw/jsml/rgznywlwgcjys/95f9d9f44a854ae3a9edacf5aaecf853.htm' target='_blank'>North China Electric Power Univ., Beijing, China</a>
+        </div>
+        <div class='col-lg-3'></div>
+        <div class='col-lg-9 list' style="font-size:20px">Assistant Professor at School of Control and Computer Engineering</div>
+    </ul>
+<!--        <br>-->
+    </div>
+
+<!--Research Interests-->
+    <div  style="margin-right:150px;margin-left:150px;">
+        <h2 id='Research Interests' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Research Interests</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+
+        <div style="font-size:20px">My research interests include machine learning and data mining. Currently, I focus on the following research topics:
+            <ul style="font-size:19px">
+                <li>Graph Neural Networks</li>
+                <li>Social Media Analysis and Web Mining</li>
+                <li>Riemannian Representation Learning</li>
+            </ul>
+        </div>
+<!--        <br>-->
+    </div>
+
+    <!-- 工作学习经历 -->
+    <div style="margin-right:150px;margin-left:150px;">
+        <h2 id='Education' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Education</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+    <ul class='row' style="font-size:20px">
+        <li class='col-lg-3'>2019.09-2020.08</li>
+        <div class='col-lg-9 list'>Univ. of Illinois at Chicago, IL, USA
+            <br>Visiting Scholar, Advisor:<a href='https://www.cs.uic.edu/PSYu/' target='_blank'>Prof. Philip S. Yu</a>(Fellow of ACM & IEEE)
+        </div>
+        <div class='col-lg-3'></div>
+        <div class='col-lg-9 list' style="font-size:18px">Research Topic: Non-Euclidean Representation Learning</div>
+    </ul>
+    <ul class='row' style="font-size:20px">
+        <li class='col-lg-3'>2016.09-2021.06</li>
+        <div class='col-lg-9 list'><a href='https://www.bupt.edu.cn/' target='_blank'>Beijing Univ. of Posts and Telecomm., China</a><br>Ph.D. of Computer Science, Advisor: <a href='https://www.bupt.edu.cn/info/1076/83854.htm' target='_blank'>Prof. Sen Su</a>
+        </div>
+        <div class='col-lg-3'></div>
+        <div class='col-lg-9 list' style="font-size:18px">Dissertation: Research on Social Network Alignment</div>
+    </ul>
+    <ul class='row' style="font-size:20px">
+        <li class='col-lg-3'>2012.09-2016.06</li>
+        <div class='col-lg-9 list'><a href='https://www.bupt.edu.cn/' target='_blank'>Beijing Univ. of Posts and Telecomm., China</a><br>B.Eng. of Internet of Things (Ranking: 1/112)
+        </div>
+    </ul>
+<!--        <br>-->
+    </div>
+
+
+    <!-- 代表性学术成果 -->
+<!--    <br>-->
+    <div style="margin-right:150px;margin-left:150px;">
+        <h2 id='Selected Publications' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Selected Publications</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+    <ol class='row' style="font-size:20px">
+        <li><strong>Li Sun</strong>, Zhongbao Zhang, Jian Wen, Feiyang Wang, Sen Su and Philip S. Yu. Aligning
+Dynamic Social Networks: An Optimization over Dynamic Graph Autoencoder, IEEE
+Transactions on Knowledge and Data Engineering (TKDE), 2022.</li>
+        <li><strong>Li Sun</strong>, Zhongbao Zhang, Junda Ye, Hao Peng, Jiawei Zhang, Sen Su and Philip S.
+Yu. A Self-supervised Mixed-curvature Graph Neural Network. AAAI Conference on
+Artificial Intelligence (AAAI), 2022. Acceptance rate: 15%, Oral, pp. 4146-4155.</li>
+        <li><strong>Li Sun</strong>, Junda Ye, Hao Peng and Philip S. Yu. A Self-supervised Riemannian GNN
+with Time Varying Curvature for Temporal Graph Learning. ACM International Conference on Information and Knowledge Management (CIKM), 2022.</li>
+        <li><strong>Li Sun</strong>, Zhongbao Zhang, Jiawei Zhang, Feiyang Wang, Hao Peng, Sen Su and Philip
+S. Yu, Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs,
+AAAI Conference on Artificial Intelligence (AAAI), 2021. Oral, pp. 4375-4383.</li>
+        <li><strong>Li Sun</strong>, Zhongbao Zhang, Jiawei Zhang, Feiyang Wang, Yang Du, Sen Su, and Philip
+S. Yu. Perfect: A Hyperbolic Embedding for Joint User and Community Alignment,IEEE International Conference on Data Mining (ICDM), 2020. Acceptance rate:
+10%, Oral, pp. 501-510.</li>
+        <li>Feiyang Wang , Zhongbao Zhang, <strong>Li Sun</strong>, Junda Ye, Yang Yan. DiriE: Knowledge
+Graph Embedding with Dirichlet Distribution. ACM The Web Conference (WWW),
+2022.</li>
+        <li>Yingtong Dou, Zhiwei Liu, <strong>Li Sun</strong>, Yutong Deng, Hao Peng and Philip S. Yu. Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters,
+ACM International Conference on Information and Knowledge Management (CIKM),
+2020, pp. 315-324</li>
+        <li>Zhongbao Zhang, <strong>Li Sun</strong>, Sen Su, Jielun Qu, Gen Li and Jielun Qu. Reconciling
+Multiple Social Networks Effectively and Efficiently: An Embedding Approach, IEEE
+Transactions on Knowledge and Data Engineering (TKDE), 2019.</li>
+        <li>Sen Su, <strong>Li Sun</strong>, Zhongbao Zhang, Gen Li and Jielun Qu. MASTER: across Multiple social networks, integrate Attribute and STructure Embedding for Reconciliation,
+International Joint Conference on Artificial Intelligence (IJCAI). Oral paper, 2018.</li>
+<!--        <h3 style="font-size:14px">Notes: † denotes the student advised by me, and ∗ denotes equal contribution.</h3>-->
+    </ol>
+<!--        <br>-->
+    </div>
+
+    <!-- Academic Services -->
+    <div style="margin-right:150px;margin-left:150px;">
+        <h2 id='Academic Services' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Academic Services</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+        <li style="font-size:20px">Conference Program Committee:</li>
+        <ol class='row' style="font-size:19px">
+            <div class='col-lg-9 list'>AAAI Conference on Artificial Intelligence (AAAI)</div>
+            <div class='col-lg-3'> 2023,2022,2021</div>
+            <div class='col-lg-9 list'>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</div>
+            <div class='col-lg-3'>2022</div>
+            <div class='col-lg-9 list'>ACM International Conference on Web Search and Data Mining (WSDM)</div>
+            <div class='col-lg-3'>2022</div>
+            <div class='col-lg-9 list'>International Joint Conference on Artificial Intelligence (IJCAI)</div>
+            <div class='col-lg-3'>2021</div>
+            <div class='col-lg-9 list'>European Conference on Artificial Intelligence (ECAI)</div>
+            <div class='col-lg-3'>2020</div>
+        </ol>
+        <li style="font-size:20px">Invited Journal Reviewer:</li>
+        <ol class='row' style="font-size:19px">
+            <div class='col-lg-9 list'>ACM Transactions on the Web (ACM TWEB)</div>
+            <div class='col-lg-9 list'>International Journal of Machine Learning and Cybernetics (IJMLC)</div>
+
+        </ol>
+<!--        <br>-->
+    </div>
+
+
+    <!-- Funding -->
+    <div style="margin-right:150px;margin-left:150px;">
+        <h2 id='Funding' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Funding</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+        <p style="font-size:20px">1.<strong>National Natural Science Foundation of China</strong>,
+            <br>Young Scholar, Dynamic Social Network Representation and Alignment, 2023 - 2025</p>
+        <p style="font-size:20px">2.<strong>Fundamental Research Funds for the Central Universities</strong>,
+            <br>General Project, Social Network Fusion with Riemannian GNNs, 2022 - 2023</p>
+<!--        <br>-->
+    </div>
+    <!-- 人才培养 -->
+    <div style="margin-right:150px;margin-left:150px;">
+        <h2 id='Student Mentoring' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Student Mentoring</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+        <p style="font-size:20px">BUPT:   Wang, Feiyang (2019 - present); Ye, Junda (2020 - present)
+            <br>NCEPU: <a href='https://hjingbin.github.io' target='_blank'>Hu, Jingbin </a>(2022 - present)
+        </p>
+<!--        <br>-->
+    </div>
+
+    <div style="margin-right:150px;margin-left:150px;">
+        <h2 id='Honors and Awards' style="font-size:24px;color:#00008B;background-color: #E6E6FA;text-align:left">Honors and Awards</h2>
+<!--        <hr style="height:1px;border:none;border-top:1px solid #000080;" />-->
+    <ul class='row' style="font-size:20px">
+        <li class='col-lg-7 list'>Outstanding Postgraduate of Beijing</li>
+        <div class='col-lg-3'>2021</div>
+        <li class='col-lg-7 list'>National Scholarship (Ph.D. Candidate)</li>
+        <div class='col-lg-3'>2019</div>
+        <li class='col-lg-7 list'>Outstanding Graduate of Beijing</li>
+        <div class='col-lg-3'>2016</div>
+        <li class='col-lg-7 list'>National Scholarship</li>
+        <div class='col-lg-3'>2015,2014</div>
+    </ul>
+<!--        <br>-->
+    </div>
+
+</body>
+
+</html>
