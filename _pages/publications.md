@@ -12,7 +12,6 @@ author_profile: true
 
 <html>
 
-[//]: # (<li><strong>2024</strong></li>)
 <tr>
 <td style="text-align: left;border: none;">
         <!--右侧内容-->
@@ -70,7 +69,6 @@ author_profile: true
     </td>
 </tr>
 
-[//]: # (<li><strong>2023</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -172,7 +170,6 @@ author_profile: true
     </td>
 </tr>
 
-[//]: # (<li><strong>2022</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -217,7 +214,6 @@ author_profile: true
     </td>
 </tr>
 
-[//]: # (<li><strong>2021</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -245,7 +241,6 @@ author_profile: true
     </td>
 </tr>
 
-[//]: # (<li><strong>2020</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -297,7 +292,6 @@ author_profile: true
     </td>
 </tr>
 
-[//]: # (<li><strong>2019 and earlier</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
