@@ -10,6 +10,7 @@ main:
     url: /teaching/
 
   - title: "CV"
-    url: /files/sunli-CV.pdf
-    download: /files/sunli-CV.pdf
+    url: /CV/
+#    url: /files/sunli-CV.pdf
+#    download: /files/sunli-CV.pdf
 

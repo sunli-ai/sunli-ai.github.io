@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 # About Me
-I am currently an Associate Professor at **North China Electric Power University (NCEPU), Beijing**. I received the Ph.D. in Computer Science from Beijing University of Posts and Telecommunications in 2021, supervised by **Prof. SU, Sen**. From September 2019 to August 2020, I was a visiting scholar at University of Illinois at Chicago, USA, advised by **Prof. Philip. S. Yu (ACM/IEEE Fellow)**. 
+I am currently an Associate Professor at **North China Electric Power University (NCEPU), Beijing**. I received the Ph.D. in Computer Science from Beijing University of Posts and Telecommunications in 2021, supervised by **Prof. Sen Su**. From September 2019 to August 2020, I was a visiting scholar at University of Illinois at Chicago, USA, advised by **Prof. Philip. S. Yu (ACM/IEEE Fellow)**. 
 
-I am a machine learning and data mining researcher, with special attentions to Riemannian machine learning, Graphs and Cyber-security. I am granted the Young Elite Scientists Sponsorship of Beijing (2024), and I am a recipient of CIKM22 Best Paper Candidate. I have published over 30 refereed top conference/journal papers, including ICML, AAAI, IJCAI, WWW, SIGIR, ICDM, CIKM, IEEE TKDE, ACM TWEB, ACM TIST, etc. (#CCF-A=17, #CCF-B=5, #ACM/IEEE Trans=8). I have been routinely invited to serve as PC member in NeurIPS, AAAI, IJCAI, SIGKDD, WWW, WSDM, CIKM, etc., Publicity Chair in IEEE DSS’24 and IEEE SocialCom’23, and Guest Editor in [Springer JMLC (Lead Editor)](https://link.springer.com/journal/13042/updates/26337314) and Electronics. 
+I am a machine learning and data mining researcher, with special attentions to Riemannian machine learning, Graphs and Cyber-security. I am granted the Young Elite Scientists Sponsorship of Beijing (2024), and I am a recipient of CIKM22 Best Paper Candidate. I have published over 30 refereed top conference/journal papers, including ICML, AAAI, IJCAI, WWW, SIGIR, ICDM, CIKM, IEEE TKDE, ACM TWEB, ACM TIST, etc. I have been routinely invited to serve as PC member in NeurIPS, AAAI, IJCAI, SIGKDD, WWW, WSDM, CIKM, etc., Publicity Chair in IEEE DSS’24 and IEEE SocialCom’23, and Guest Editor in [Springer JMLC (Lead Editor)](https://link.springer.com/journal/13042/updates/26337314) and Electronics. 
 
 ---
 # News
@@ -29,7 +29,7 @@ I am a machine learning and data mining researcher, with special attentions to R
 
 ---
 # Selected Publications
-1.	**Li Sun**, Zhenhao Huang, et. al. LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering, **ICML 2024, Oral, Top 2% (CCF-A)**.
+1.	**Li Sun**, Zhenhao Huang, et. al. LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering, **ICML 2024, Oral, Top 1.5% (CCF-A)**.
 2.	**Li Sun**, Jingbin Hu, et. al. RicciNet: Deep Clustering via A Riemannian Generative Model, **ACM TheWebConf 2024** (WWW), pp. 4071-4802. **(CCF-A)**
 3.	**Li Sun**, Zhenhao Huang, et. al. Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning, **AAAI 2024**, Oral, pp. 9044-9052. **(CCF-A)**
 4.	**Li Sun**, Jingbin Hu, et. al. R-ODE: Ricci Curvature Tells When You Will Be Informed. **SIGIR 2024**. **(CCF-A)**

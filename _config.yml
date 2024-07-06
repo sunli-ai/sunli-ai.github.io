@@ -25,11 +25,11 @@ author:
   name: "Li Sun 孙笠"
   pronouns: # ""
   bio: "Associate Professor"
-  location: "2.Beinong Rd., Beijing"
-  department: "Main Building·E"
-  employer: "North·China·Electric·Power·University"
+  location: "2 Beinong Rd., Beijing"
+  department: "Main Building E"
+  employer: "North China Electric Power Univ."
   uri: # URL
-  email: "ccesunli\n@ncepu.edu.cn"
+  email: "ccesunli\n at ncepu.edu.cn"
 
   # Academic websites
   dblp: "https://dblp.org/pid/57/2405-8.html"
