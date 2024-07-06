@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 <span style="color:rgb(65, 105, 225); font-weight:bold;font-size:2em;">Student Mentoring</span>
-#### Ph.D./Master Students 
+### Ph.D./Master Students 
 -	Wang, Feiyang (2019 - present): GlobeCom’20, WWW’22 
 -	Ye, Junda (2020 - present): WWW’23
 -	Hu, Jingbin (2022 - present): Information Diffusion & Vector Field, WWW’24, SIGIR’24 
@@ -25,7 +25,7 @@ author_profile: true
 -	Huang, Zhenhao (2024 - present): Riemannian Foundation Models, AAAI’24, ICDM’23 
 -	Li, Mengjie (2025 - present): Misinformation & Incremental Learning, Springer JMLC 
 
-#### Undergraduate Students 
+### Undergraduate Students 
 -	Zhou, Suyang: Graph ODE
 -	Wang, Zixi: Graph Neural Network
 -	Wan, Qiqi: Spiking Neural Network
