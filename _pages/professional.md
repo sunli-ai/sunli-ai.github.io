@@ -17,7 +17,7 @@ author_profile: true
 -	Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
 -	ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024, 2023, 2022.
 -	ACM The Web Conference (WWW), 2024.
--	AAAI Conference on Artificial Intelligence (AAAI), 2024, 2023, 2022, 2021, 2020.
+-	AAAI Conference on Artificial Intelligence (AAAI), 2025, 2024, 2023, 2022, 2021, 2020.
 -	International Joint Conference on Artificial Intelligence (IJCAI), 2024, 2022.
 -	ACM International Conference on Web Search and Data Mining (WSDM), 2022.
 -	ACM International Conference on Information and Knowledge Management (CIKM), 2024
@@ -30,10 +30,11 @@ author_profile: true
 
 <span style="color:rgb(65, 105, 225); font-weight:bold;"><u>Journal Reviewer</u></span>
 -	IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - IEEE Transactions on Mobile Computing (TMC)
 -	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
--	IEEE Transactions on Mobile Computing (TMC)
 -	ACM Transactions on Intelligent Systems and Technology (TIST)
 -	ACM Transactions on the Web (TWEB)
 -	IEEE Transactions on Big Data (TBD)
+  - IEEE Transactions on Network Science and Engineering (TNSE)
 -	Elsevier Information Processing & Management (IP&M)
 -	Springer International Journal on Machine Learning and Cybernetics (JMLC) 

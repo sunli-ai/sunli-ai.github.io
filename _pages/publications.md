@@ -11,11 +11,13 @@ author_profile: true
 **CCF-A: 17, CCF-B: 5, ACM/IEEE Trans.: 8**
 
 <html>
-<li><strong>2024</strong></li>
+
+[//]: # (<li><strong>2024</strong></li>)
 <tr>
 <td style="text-align: left;border: none;">
         <!--右侧内容-->
         <ul style="list-style-type: none;">
+            <li><strong>2024</strong></li>
             <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[ICML Oral]</strong>  LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering,</li></span>
             <li><em><strong>Sun, L.</strong>, Huang, Z., Peng, H., Wang, Y., Liu, C., Yu, P. S.</em></li>
             <li>International Conference on Machine Learning 2024</li>
@@ -68,10 +70,11 @@ author_profile: true
     </td>
 </tr>
 
-<li><strong>2023</strong></li>
+[//]: # (<li><strong>2023</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
+            <li><strong>2023</strong></li>
             <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[IJCAI]</strong>  Congregate: Contrastive Graph Clustering in Curvature Spaces,</li></span>
             <li><em><strong>Sun, L.</strong>, Wang, F., Ye, J., Yu, P. S.</em></li>
             <li>International Joint Conference on Artificial Intelligence 2023</li>
@@ -169,10 +172,11 @@ author_profile: true
     </td>
 </tr>
 
-<li><strong>2022</strong></li>
+[//]: # (<li><strong>2022</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
+            <li><strong>2022</strong></li>
             <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[CIKM Best Paper Candidate]</strong>  A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning,</li></span>
             <li><em><strong>Sun, L.</strong>, Ye, J., Peng, H., Wang, F., Yu, P. S.</em></li>
             <li>ACM International Conference on Information and Knowledge Management</li>
@@ -213,10 +217,11 @@ author_profile: true
     </td>
 </tr>
 
-<li><strong>2021</strong></li>
+[//]: # (<li><strong>2021</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
+            <li><strong>2021</strong></li>
             <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[AAAI]</strong> Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs,</li></span>
             <li><em><strong>Sun, L.</strong>, Zhang, Z., Zhang, J., Wang, F., Su, S., Yu, P. S.</em></li>
         </ul>
@@ -240,10 +245,11 @@ author_profile: true
     </td>
 </tr>
 
-<li><strong>2020</strong></li>
+[//]: # (<li><strong>2020</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
+            <li><strong>2020</strong></li>
             <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[CIKM]</strong> Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (Top 10 Most Influential CIKM Papers at CIKM20)</li></span>
             <li><em>Dou, Y., Liu, Z., <strong>Sun, L.</strong>, Deng, Y., Peng, H., Yu, P. S.</em></li>
         </ul>
@@ -291,10 +297,11 @@ author_profile: true
     </td>
 </tr>
 
-<li><strong>2019 and earlier</strong></li>
+[//]: # (<li><strong>2019 and earlier</strong></li>)
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
+            <li><strong>2019 and earlier</strong></li>
             <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[IEEE BigData’19]</strong> Dynamic Social Network Alignment</li></span>
             <li><em><strong>Sun, L.</strong>, Zhang, Z., Ji, P., Wen, J., Su, S., Yu, P. S.</em></li>
             <li>IEEE International Conference on Big Data</li>

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About Me
-I am currently an Associate Professor at **North China Electric Power University (NCEPU), Beijing**. I received the Ph.D. in Computer Science from Beijing University of Posts and Telecommunications in 2021, supervised by **Prof. Sen Su**. From September 2019 to August 2020, I was a visiting scholar at University of Illinois at Chicago, USA, advised by **Prof. Philip. S. Yu (ACM/IEEE Fellow)**. 
+I am currently an Associate Professor at **North China Electric Power University (NCEPU), Beijing**. I received the Ph.D. in Computer Science from Beijing University of Posts and Telecommunications in 2021, supervised by **Prof. Sen Su**. From September 2019 to August 2020, I was a visiting scholar at University of Illinois at Chicago, USA, advised by [**Prof. Philip. S. Yu (ACM/IEEE Fellow)**](https://cs.uic.edu/profiles/philip-yu/). 
 
 I am a machine learning and data mining researcher, with special attentions to Riemannian machine learning, Graphs and Cyber-security. I am granted the Young Elite Scientists Sponsorship of Beijing (2024), and I am a recipient of CIKM22 Best Paper Candidate. I have published over 30 refereed top conference/journal papers, including ICML, AAAI, IJCAI, WWW, SIGIR, ICDM, CIKM, IEEE TKDE, ACM TWEB, ACM TIST, etc. I have been routinely invited to serve as PC member in NeurIPS, AAAI, IJCAI, SIGKDD, WWW, WSDM, CIKM, etc., Publicity Chair in IEEE DSS’24 and IEEE SocialCom’23, and Guest Editor in [Springer JMLC (Lead Editor)](https://link.springer.com/journal/13042/updates/26337314) and Electronics. 
 
