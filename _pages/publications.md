@@ -69,9 +69,6 @@ author_profile: true
         </ul>
     </td>
 </tr>
-
----
-
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -172,10 +169,6 @@ author_profile: true
         </ul>
     </td>
 </tr>
-
-
----
-
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -219,9 +212,6 @@ author_profile: true
         </ul>
     </td>
 </tr>
-
----
-
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -248,9 +238,6 @@ author_profile: true
         </ul>
     </td>
 </tr>
-
----
-
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
@@ -301,9 +288,6 @@ author_profile: true
         </ul>
     </td>
 </tr>
-
----
-
 <tr>
     <td style="text-align: left;border: none;">
         <ul style="list-style-type: none;">
