@@ -15,7 +15,7 @@ author_profile: true
 
 <span style="color:rgb(65, 105, 225); font-weight:bold;"><u>Conference (Senior) Program Committee</u></span>
 -	Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
--	ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024, 2023, 2022.
+-	ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025, 2024, 2023, 2022.
 -	ACM The Web Conference (WWW), 2024.
 -	AAAI Conference on Artificial Intelligence (AAAI), 2025, 2024, 2023, 2022, 2021, 2020.
 -	International Joint Conference on Artificial Intelligence (IJCAI), 2024, 2022.
