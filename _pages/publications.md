@@ -8,7 +8,7 @@ author_profile: true
 
 **[Google Scholar](https://scholar.google.com.hk/citations?user=df8FxPAAAAAJ)**
 
-**CCF-A: 17, CCF-B: 5, ACM/IEEE Trans.: 8**
+**CCF-A: 17, CCF-B: 10, ACM/IEEE Trans.: 8**
 
 ----
 
