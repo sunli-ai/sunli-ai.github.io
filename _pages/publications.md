@@ -11,14 +11,13 @@ author_profile: true
 **CCF-A: 17, CCF-B: 5, ACM/IEEE Trans.: 8**
 
 ----
-<html>
 
 <tr>
 <td style="text-align: left;border: none;">
         <!--右侧内容-->
         <ul style="list-style-type: none;">
             <li><strong>2024</strong></li>
-            <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[ICML Oral]</strong>  LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering,</li></span>
+            <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[ICML Oral]</strong>  LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering</li></span>
             <li><em><strong>Sun, L.</strong>, Huang, Z., Peng, H., Wang, Y., Liu, C., Yu, P. S.</em></li>
             <li>International Conference on Machine Learning 2024</li>
         </ul>
@@ -66,6 +65,51 @@ author_profile: true
             <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[Preprint]</strong>  Relational Prompt-based Pre-trained Language Models for Social Event Detection</li></span>
             <li><em>Li, P., Yu, X., Peng, H., Xian, Y., Wang, L., <strong>Sun, L.</strong>, Zhang, J., Yu, P. S.</em></li>
             <li>ACM Transactions on Information System (Under Revision)</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td style="text-align: left;border: none;">
+        <ul style="list-style-type: none;">
+            <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[CIKM]</strong>Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection</li></span>
+            <li><em>Zhiwei Yang, Yuecen Wei, Haoran Li, Qian Li, Lei jiang, <strong>Li Sun</strong>, Xiaoyan Yu, Chunming Hu and Hao Peng</em></li>
+            <li>ACM International Conference on Information and Knowledge Management</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td style="text-align: left;border: none;">
+        <ul style="list-style-type: none;">
+            <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[CIKM]</strong>Table-Filling via Mean Teacher for Cross-domain Aspect Sentiment Triplet Extraction</li></span>
+            <li><em>Kun Peng, Lei jiang, Qian Li, Haoran Li, Xiaoyan Yu, <strong>Li Sun</strong>, Shuo Sun, Yanxian Bi and Hao Peng</em></li>
+            <li>ACM International Conference on Information and Knowledge Management</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td style="text-align: left;border: none;">
+        <ul style="list-style-type: none;">
+            <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[CIKM]</strong>DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism</li></span>
+            <li><em>Xiaoyan Yu, Yifan Wei, Pu Li, Shuaishuai Zhou, Hao Peng, <strong>Li Sun</strong>,Liehuang Zhu and Philip S. Yu</em></li>
+            <li>ACM International Conference on Information and Knowledge Management</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td style="text-align: left;border: none;">
+        <ul style="list-style-type: none;">
+            <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[CIKM]</strong>Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis</li></span>
+            <li><em>Zhe Liu, Xiang Huang, jingyun Zhang, <strong>Li Sun</strong>, Zhifeng Hao and Hao Peng</em></li>
+            <li>ACM International Conference on Information and Knowledge Management</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td style="text-align: left;border: none;">
+        <ul style="list-style-type: none;">
+            <span style="color:rgb(70,130,180); font-weight:bold;"><li><strong>[CIKM]</strong>A Mixed-Curvature Graph Diffusion Model</li></span>
+            <li><em>Yujie Wang, Shuo Zhang, junda Ye, Hao Peng and <strong>Li Sun</strong></em></li>
+            <li>ACM International Conference on Information and Knowledge Management</li>
         </ul>
     </td>
 </tr>

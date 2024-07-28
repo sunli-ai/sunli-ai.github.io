@@ -8,21 +8,21 @@
 
 # Basic Site Settings
 locale                   : "NCEPU"
-title                    : "Li Sun's Home Page"
+title                    : "SunLi's Home Page 孙笠个人主页"
 title_separator          : "-"
-name                     : &name "Li Sun"
+name                     : &name "SunLi 孙笠"
 description              : &description "personal description"
 url                      : https://sunli-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunli-ai/sunli-ai.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - The following control what appear as part of the author content on the sidebar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar: "sunli.png"
-  name: "Li Sun 孙笠"
+  name: " SunLi 孙笠"
   pronouns: # ""
   bio: "Associate Professor"
   location: "2 Beinong Rd., Beijing"
