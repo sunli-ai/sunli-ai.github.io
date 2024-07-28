@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "NCEPU"
-title                    : "SunLi's Home Page 孙笠个人主页"
+title                    : "孙笠 SunLi's Home Page"
 title_separator          : "-"
-name                     : &name "SunLi 孙笠"
+name                     : &name "孙笠 SunLi"
 description              : &description "personal description"
 url                      : https://sunli-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "sunli-ai/sunli-ai.github.io"
 author:
   # Biographic information
   avatar: "sunli.png"
-  name: " SunLi 孙笠"
+  name: " 孙笠 SunLi"
   pronouns: # ""
   bio: "Associate Professor"
   location: "2 Beinong Rd., Beijing"
