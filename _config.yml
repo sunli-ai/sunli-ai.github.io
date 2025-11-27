@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "NCEPU"
+locale                   : "BUPT"
 title                    : "孙笠 Li Sun's Home Page"
 title_separator          : "-"
 name                     : &name "孙笠 Li Sun"
@@ -25,12 +25,12 @@ author:
   name: " 孙笠 Li Sun"
   pronouns: # ""
   bio: "Associate Professor"
-  location: "2 Beinong Rd., Beijing"
+  location: "10 Xitucheng Rd., Beijing"
   department: "Main Building E"
-  employer: "North China Electric Power Univ."
+  employer: "BUPT"
   uri: # URL
-  email: "ccesunli\n at ncepu.edu.cn"
-
+  email: "lsun \n at bupt.edu.cn"
+ 
   # Academic websites
   dblp: "https://dblp.org/pid/57/2405-8.html"
   arxiv: # URL - Update with the correct link to your profile
